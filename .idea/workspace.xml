@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feat" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34c9ccbf-07ea-4b03-9cd2-1141743da1ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/app/src/main/kotlin/com/example/example/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/android/settings_aar.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Podfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/lib/audio_converter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/lib/audio_recorder.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/lib/author_filter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/lib/mic_overlay.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/lib/results.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_searchbox/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_searchbox/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_searchbox/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_searchbox/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchbase/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/searchbase/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchbase/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/searchbase/.packages" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pcAKjzqrumAnvNIXgZ1umif8wg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/flutter_searchbox" />
+      <recent name="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/assests" />
+      <recent name="$PROJECT_DIR$/flutter_searchbox/example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/flutter_searchbox" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_searchbox/example/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_searchbox/example_cloudSTT/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34c9ccbf-07ea-4b03-9cd2-1141743da1ff" name="Default Changelist" comment="" />
+      <created>1615471943305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615471943305</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615798764346">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1615798764346" />
+    <state x="273" y="244" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1615798761082">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="273" y="244" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1615798761082" />
+    <state x="100" y="100" width="1240" height="700" key="AVDManager" timestamp="1616395831695">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="AVDManager/0.0.1440.900@0.0.1440.900" timestamp="1615477213179" />
+    <state x="100" y="100" width="1240" height="700" key="AVDManager/0.25.1440.805@0.25.1440.805" timestamp="1616395831695" />
+    <state x="100" y="100" width="1240" height="700" key="AVDManager/0.25.1440.809@0.25.1440.809" timestamp="1615477826970" />
+    <state x="100" y="100" width="847" height="700" key="DiffContextDialog" timestamp="1616393087988">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="847" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1616393087988" />
+    <state width="1398" height="151" key="GridCell.Tab.0.bottom" timestamp="1616406576148">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1616406576148" />
+    <state width="1398" height="151" key="GridCell.Tab.0.center" timestamp="1616406576147">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1616406576147" />
+    <state width="1398" height="151" key="GridCell.Tab.0.left" timestamp="1616406576147">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1616406576147" />
+    <state width="1398" height="151" key="GridCell.Tab.0.right" timestamp="1616406576148">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1616406576148" />
+    <state x="144" y="76" key="MergeDialog" timestamp="1621269124598">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="76" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1621269124598" />
+    <state x="356" y="215" key="MultipleFileMergeDialog" timestamp="1621269129040">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="356" y="215" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1621269129040" />
+    <state x="444" y="174" key="RollbackChangesDialog" timestamp="1621271966041">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="444" y="174" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1621271966041" />
+    <state x="221" y="86" key="SettingsEditor" timestamp="1615472659430">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1615472659430" />
+    <state x="208" y="205" width="681" height="490" key="find.popup" timestamp="1615799691234">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="205" width="681" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1615799691234" />
+    <state x="181" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1615799535197">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="181" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1615799535197" />
+  </component>
+</project>
